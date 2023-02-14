@@ -5,5 +5,6 @@ public class Calculator {
         System.out.println("I am not sure if I need to be making a real calculator or if I can jsut be pushing random things");
         int x = 1000;
         double y = 2.00;
+        System.out.println(x * y);
     }
 }
